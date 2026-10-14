@@ -1,0 +1,7 @@
+************* Module scholarship_system
+scholarship_system.py:68:4: W0603: Using the global statement (global-statement)
+scholarship_system.py:88:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.75/10 (previous run: 9.75/10, +0.00)
+
